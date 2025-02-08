@@ -5,19 +5,19 @@ A sport app that covers horse races, greyhound races, and harness races
 ## Overview
 The project is designed by following the MVVM architecture. This project is structured to ensure scalability, maintainability, and separation of concerns.
 
-📂 project-root
-├── 📂 build-logic        # Build script module to be shared across project
-├── 📂 app                # Main application module
-├── 📂 core               # Core module
-│   ├── 📂 common         # Common utilities and helpers
-│   ├── 📂 design-system  # UI components and theme
-│   ├── 📂 data           # Repository and data sources
-│   ├── 📂 model          # Models to be consumed  in Ui
-│   ├── 📂 network        # API and network layer
-├── 📂 features           # Feature module
-│   ├── 📂 racing         # Racing Feature
-├── 📄 settings.gradle.kts
-└── 📄 build.gradle.kts
+📂 project-root<br/>
+├── 📂 build-logic        # Build script module to be shared across project<br/>
+├── 📂 app                # Main application module<br/>
+├── 📂 core               # Core module<br/>
+│   ├── 📂 common         # Common utilities and helpers<br/>
+│   ├── 📂 design-system  # UI components and theme<br/>
+│   ├── 📂 data           # Repository and data sources<br/>
+│   ├── 📂 model          # Models to be consumed  in Ui<br/>
+│   ├── 📂 network        # API and network layer<br/>
+├── 📂 features           # Feature module<br/>
+│   ├── 📂 racing         # Racing Feature<br/>
+├── 📄 settings.gradle.kts<br/>
+└── 📄 build.gradle.kts<br/>
 
 ## Modules Description
 - Build-Logic Module: Gradle Build script module that contains build scripts to be shared among modules.
