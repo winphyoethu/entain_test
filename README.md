@@ -54,5 +54,4 @@ cd your-repo
 4. Run the application on an emulator or device.
 
 ## Screenshots
-<img src="https://github.com/winphyoethu/entain_test/blob/main/screenshots/lightmode.jpg?raw=true" width="200" alt="lightmode"/>
-<img src="https://github.com/winphyoethu/entain_test/blob/main/screenshots/darkmode.jpg?raw=true" width="200" alt="darkmode"/>
+<img src="https://github.com/winphyoethu/entain_test/blob/main/screenshots/lightmode.jpg?raw=true" width="200" alt="lightmode"/><img src="https://github.com/winphyoethu/entain_test/blob/main/screenshots/darkmode.jpg?raw=true" width="200" alt="darkmode"/>
