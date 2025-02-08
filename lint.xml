@@ -1,0 +1,11 @@
+<lint>
+    <issue id="UnknownNullness">
+        <ignore path="**/generated/**" />
+        <ignore path="**/build/**" />
+    </issue>
+    <issue id="Typos">
+        <ignore path="**/font_certs.xml" />
+    </issue>
+    <issue id="NewerVersionAvailable" severity="informational" />
+    <issue id="AndroidGradlePluginVersion" severity="informational" />
+</lint>

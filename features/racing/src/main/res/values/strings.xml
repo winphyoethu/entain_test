@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bad_request">Bad Request</string>
+    <string name="no_upcoming_races">No upcoming races</string>
+    <string name="unable_to_fetch">Unable to fetch</string>
+
+    <string name="retry">Retry</string>
+
+    <!-- Race Type -->
+    <string name="race_type_horse">Horse</string>
+    <string name="race_type_greyhound">Greyhound</string>
+    <string name="race_type_harness">Harness</string>
+
+    <!-- Network Status -->
+    <string name="connected">Network connected</string>
+    <string name="disconnected">Network disconnected</string>
+</resources>
