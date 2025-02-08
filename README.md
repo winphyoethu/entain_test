@@ -20,7 +20,7 @@ The project is designed by following the MVVM architecture. This project is stru
 └── 📄 build.gradle.kts<br>
 
 ## Modules Description
-- Build-Logic Module: Gradle Build script module that contains build scripts to be shared among modules.
+- Build-Logic Module: Centralized Gradle Build script module that contains build scripts to be shared among modules.
 - App Module: The main application that brings all modules together.
 - Core Module: Contains shared components and logic used across feature modules.
 - common: Shared utilities, extensions, and constants.
@@ -28,8 +28,6 @@ The project is designed by following the MVVM architecture. This project is stru
 - data: Repository layer handling business logic and data sources.
 - network: API services and networking configurations.
 - Feature Modules: Independent features that interact with core modules.
-
-BuildSrc: Centralized dependency and build management.
 
 ## 🛠️ Tech Stack
 - Programming Language: Kotlin
